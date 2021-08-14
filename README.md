@@ -1,4 +1,5 @@
 ### Oi! Me chamo Micael :)
+📚 Estou estudando Javascript
  <div>
   <a href="https://github.com/micaelol12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaelol12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
